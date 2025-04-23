@@ -63,4 +63,4 @@ Menggunakan vscode
 
 ## Credits
 
-Author: Anonim
+Author: Muhammad Rilo Nugraha
